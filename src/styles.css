@@ -1,0 +1,36 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+.bg-dark-2{
+  background-color: black;
+}
+.signup{
+  width: 500px;
+  margin-left: 650px;
+}
+
+.page-footer{
+  padding-bottom: 0px;
+}
+
+.page-footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.signin-h1{
+  color: black;
+  font-weight: bold;
+  padding-bottom: 10px;
+  justify-content: center;
+  font-family: Source Sans Pro;
+}
